@@ -8,7 +8,7 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
-knitr::opts_knit$set(root.dir = "C:/Users/Liliana/OneDrive - Universitat de Barcelona/Projects")
+knitr::opts_knit$set(root.dir = ".../Projects")
 ```
 
 This script reports the code used to produce one plot included in the academic paper “Logistic Hubs and Support for Radical-right Populism: Evidence from Italy”, authored by Liliana Cuccu and Nicola Pontarollo.
